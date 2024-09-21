@@ -1,0 +1,16 @@
+
+ul{
+  text-decoration: none;
+  list-style-type: none;
+  /* margin: 0; */
+  display:flex;
+}
+li{
+  padding: 10px;
+}
+img{
+  padding:0px 200px 0px;
+}
+.header{
+  justify-content: space-between;
+}
